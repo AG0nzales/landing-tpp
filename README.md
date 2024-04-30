@@ -1,3 +1,3 @@
 Astro Landing Template
 
-[LANDING TEMPLATE](landing-tpp.vercel.app)
+[LANDING TEMPLATE](https://landing-tpp.vercel.app/)
